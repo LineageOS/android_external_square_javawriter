@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_ca89a8cc",
+        "filename": "Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2014-07-08T07:02:06Z",
+      "side": 1,
+      "message": "Copyright should be attributed to The CyanogenMod Project, year 2014.",
+      "revId": "8cf5d3d2fa5309480ea72337247982a546deda31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
